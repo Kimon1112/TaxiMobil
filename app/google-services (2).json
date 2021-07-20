@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437066523864",
+    "firebase_url": "https://taximobil-9683b-default-rtdb.firebaseio.com",
+    "project_id": "taximobil-9683b",
+    "storage_bucket": "taximobil-9683b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437066523864:android:481f3c2e1f5f3a7ecf63ad",
+        "android_client_info": {
+          "package_name": "com.example.taximobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437066523864-op78j7jsl9h61g3ocrpp28uv1mig4mj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpIy1817II3jWmSYxW0dCFN7ukcz9i9Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437066523864-op78j7jsl9h61g3ocrpp28uv1mig4mj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
